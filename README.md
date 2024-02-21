@@ -3,9 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echo28OoO/echo28OoO/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/echo28OoO/echo28OoO/output/github-contribution-grid-snake.svg">
 </picture> -->
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echo28OoO/echo28OoO/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echo28OoO/echo28OoO/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/echo28OoO/echo28OoO/output/github-contribution-grid-snake.svg">
+
 ### Hi there 👋
 <picture>
   <img align="left" width="400"  src="./img/general.svg" alt="general">
